@@ -1,0 +1,12 @@
+1.Analysis
+	A. No because a train system needs a circular queue to be effective. It is kind of effective, but not nearly as effective as it could be.
+	B. Queues could be appropriate for Bank lines, sandwich shops and auto-body shops. You could use a queue to order the people in the lines for a teller, the ingredients on a sandwich being made, and a lot of cars to be fixed.
+
+2. Summary
+	A.
+		i. We divided up the work by checking each other’s work and suggesting ideas for each other. We work well as a team.
+		ii. My contribution was some of the actual code. I worked on creating the ADT and implementing it.
+		iii. We all worked together in the same room, so code changes were easily managed verbally.
+		iV.Working with a team made this project much simpler and more manageable.
+	B. We had trouble with the train stations, but we were able to figure it out. The program should run as expected.
+	C. I learned that trains are fairly simple, once you figure them out.
